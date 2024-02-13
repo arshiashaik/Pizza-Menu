@@ -2,7 +2,9 @@
 
 This project is a simple website built using React that displays six different pizzas. It demonstrates fundamental concepts in React such as components, JSX, and props. It does not have any backend functionality and is purely a front-end showcase.
 
+🔗 Link
 
+[![Pizza Menu](https://visionary-mousse-a45f9e.netlify.app)
 
 ## 💻 Tech Stack
 
