@@ -4,7 +4,7 @@ This project is a simple website built using React that displays six different p
 
 🔗 Link
 
-[![Pizza Menu](https://visionary-mousse-a45f9e.netlify.app)
+[Demo Link](https://visionary-mousse-a45f9e.netlify.app)
 
 ## 💻 Tech Stack
 
