@@ -4,7 +4,7 @@ This project is a simple website built using React that displays six different p
 
 🔗 Link
 
-[Demo Link](https://pizza-menu-website.netlify.app)
+[Demo Link](https://pizza-menu-page.netlify.app)
 
 ## 💻 Tech Stack
 
